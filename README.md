@@ -5,7 +5,7 @@ This project contains the code to implement a basic icon based temperature gauge
 * If its too cold, display a t-shirt icon.
 * If it just right, display a tick.
 * If its too warm, display a cross.
-* If it's WAY to wrong, display an exclamation mark and the temperature
+* If it's WAY too hot, display an exclamation mark and the temperature
 
 And finally, display the temperature when the A button is pressed and held.
 
